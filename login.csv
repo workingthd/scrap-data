@@ -1,0 +1,12 @@
+Country,Active,Name,Email,Password,Phone Number,Batch,Order,Applications,Failures
+Australia,False,Client A Full Name,muhammad.hamza@thdinfinity.com,ComputerScience123,464632168,A,1.0,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,A,2.0,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,A,3.0,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,A,4.0,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,A,5.0,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
+Australia,True,Client A Full Name,Client A Indeed User Name,Client A Indeed Password,464632168,B,,,
